@@ -48,12 +48,12 @@ Welcome to the official repository of Ghostwriter.Business — the go-to platfor
 
 ## 👥 Founders
 
-**Jacqueline M.Q. @jacquelinemq **  
+### Jacqueline M.Q. [@jacquelinemq](https://jacquelinemq.com)
 Ghostwriter for celebrities and business leaders  
 Publishing books since 2011.  
 Master of multi-genre writing and 30-day book turnarounds.
 
-**Ion Iacob @ioniacob **  
+### Ion Iacob [@ioniacob](https://ioniacob.com)
 Editor, copywriter, and digital brand developer  
 Leading a global team of 1,000+ creatives.  
 Expert in layout design and country-specific sales strategies.
